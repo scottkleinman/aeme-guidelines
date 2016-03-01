@@ -7,8 +7,8 @@
 
 /* Page */
 body {
-	background: #333333 url('../images/page-background.png') repeat top left;
-	font-family: arial,sans-serif;
+/*	background: #333333 url('../images/page-background.png') repeat top left;
+*/	font-family: arial,sans-serif;
 	padding:1%;
 	margin:1%;
 }
